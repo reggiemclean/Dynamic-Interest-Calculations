@@ -1,0 +1,9 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\A2Q2\bin\Debug\A2Q2.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\A2Q2\bin\Debug\A2Q2.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\A2Q2\obj\x86\Debug\A2Q2.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\A2Q2\obj\x86\Debug\A2Q2.pdb
+C:\Users\Owner\Desktop\A2Q2\A2Q2\obj\x86\Debug\A2Q2.exe
+C:\Users\Owner\Desktop\A2Q2\A2Q2\obj\x86\Debug\A2Q2.pdb
+C:\Users\Owner\Desktop\A2Q2\A2Q2\bin\Debug\A2Q2.exe
+C:\Users\Owner\Desktop\A2Q2\A2Q2\bin\Debug\A2Q2.pdb
+C:\Users\Owner\Desktop\A2Q2\A2Q2\obj\x86\Debug\A2Q2.csprojResolveAssemblyReference.cache
